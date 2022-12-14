@@ -1,0 +1,3 @@
+rootProject.name = 'edu-intro-jdbc'
+
+include('app')
